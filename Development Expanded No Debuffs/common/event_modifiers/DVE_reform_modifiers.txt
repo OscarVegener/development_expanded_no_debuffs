@@ -1,0 +1,50 @@
+DVE_local_development_1 = {
+	local_development_cost = -0.05
+}
+DVE_local_development_2 = {
+	local_development_cost = -0.10
+}
+DVE_local_development_3 = {
+	local_development_cost = -0.15
+}
+DVE_local_development_4 = {
+	local_development_cost = -0.20
+	allowed_num_of_buildings = 1
+}
+DVE_local_development_5 = {
+	local_development_cost = -0.25
+	allowed_num_of_buildings = 1
+}
+DVE_regional_growth_spike = {
+	local_development_cost = -0.25
+	local_build_cost = -0.15
+}
+DVE_scars_of_war = {
+	local_development_cost = 0.25
+	trade_goods_size_modifier = -0.25
+	local_tax_modifier = -0.25
+}
+DVE_screw_england = {
+	local_development_cost = 0.0
+}
+DVE_screw_lithuania = {
+	local_development_cost = 0.0
+}
+DVE_screw_russia = {
+	local_development_cost = 0.0
+}
+Fallow_Lands = {
+	local_development_cost = -0.10
+	local_monthly_devastation = -0.025
+}
+New_Settlers = {
+	local_development_cost = -0.15
+}
+New_Settlers_1 = {
+	local_development_cost = -0.15
+	local_monthly_devastation = -0.20
+}
+Settler_Enclave = {
+	local_development_cost = -0.10
+	local_unrest = 6
+}
